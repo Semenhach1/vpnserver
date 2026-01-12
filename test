@@ -1,3 +1,9 @@
+#hide-settings: 1
+#subscription-userinfo: upload=1234567888; download=10737418240088; total=0; expire=1893448861
+#profile-update-interval: 1
+#profile-title: BETA VPN 
+#announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSE=
+#announce: base64:4pqg77iP0K3QotCeINCR0JXQotCQINCf0J7QlNCf0JjQodCa0JAsINCg0JXQmtCe0JzQldCd0JTQo9CV0Jwg0J/QoNCe0JLQldCg0JjQotCsICDQodCV0KDQktCV0KDQkCAg0J/QldCg0JXQlCAg0JjQodCf0J7Qm9Cs0JfQntCS0JDQndCY0JXQnCDimqDvuI8=
 vless://db912ae7-7c2e-4777-897c-c49201e48cb9@5.39.253.14:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=f12d61f4&sni=vk.com#0004 | 🇰🇿 Kazakhstan | 🏳️ VK | By @ovi_user
 vless://cc61ea7c-92f2-4c2d-b272-32cfe8fdf99f@95.174.92.156:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&sni=sun6-21.userapi.com#0011 | 🇷🇺 Russia | 🏳️ VK | By @ovi_user
 vless://3ef34008-6ede-4356-b1d1-a9e9ab6ec279@51.250.28.151:4248?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#0013 | 🇷🇺 Russia | 🏳️ X5 | By @ovi_user
