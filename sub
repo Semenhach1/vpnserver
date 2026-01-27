@@ -3,6 +3,6 @@
 #profile-update-interval: 1
 #profile-title: School VPN
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSE=
-trojan://ZlPDp7YkPrYIP4UxbzP9i5vle@free-de-2.undef.network:443?sni=free-de-2.undef.network&host=free-de-2.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNHpjd2JFamRLdzQ4ZnB0Qlk1YWJYY1p0@basic-ru-1.undef.network:33214#Youtube 🇷🇺
-vless://39bf509b-5f65-4ed5-b69e-e14e9b8cec8a@84.201.145.188:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gNtMcbWBz1AeV6giQ5gPUrKLJPDFJsilotaoYPxr-Bg&sid=27edb008&sni=ads.x5.ru#1181 Обход белых списков 🇷🇺
+trojan://xquwRwnP7XMDMnTjf1s6Aa62d@hl-freedom-2.undef.network:443?sni=hl-freedom-2.undef.network&host=hl-freedom-2.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQmlhQ3h3RUFZaFJiOWwydUJXWkJuSVVF@basic-ru-0.undef.network:41719#Youtube 🇷🇺
+vless://491b0b7a-32e7-4462-8664-07fc45e00f85@31.59.168.88:6443?security=reality&encryption=none&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.com#Финляндия, запасная 🇫🇮
