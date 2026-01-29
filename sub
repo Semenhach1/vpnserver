@@ -1,9 +1,13 @@
 #hide-settings: 1
 #subscription-userinfo: upload=1234567; download=107374182400; total=0; expire=1893448861
 #profile-update-interval: 1
-#profile-title: School VPN
+#profile-title: Brick VPN
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSE=
+
 #announce: base64:4pqg77iP0J3QlSDQmNCh0J/QntCb0KzQl9Cj0JnQotCVICDQl9CQ0J/QkNCh0J3QntCZICwg0JXQodCb0Jgg0KDQkNCR0J7QotCQ0K7QoiDQlNCg0KPQk9CY0JUg4pqg77iP
 trojan://xquwRwnP7XMDMnTjf1s6Aa62d@hl-freedom-2.undef.network:443?sni=hl-freedom-2.undef.network&host=hl-freedom-2.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQmlhQ3h3RUFZaFJiOWwydUJXWkJuSVVF@basic-ru-0.undef.network:41719#Youtube 🇷🇺
 vless://8f07268b-b112-42ae-9c70-e640767d2903@midorinote.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#Запасной
+vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Германия 🇩🇪
+trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#Нидерланды 🇳🇱
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@178.250.242.13:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#Белые списки 🇷🇺 (⚠️НЕ ИСПОЛЬЗУЙТЕ НА wifi И ЕСЛИ У ВАС НЕТУ БЕЛЫХ СПИСКОВ , ИНАЧЕ СЕРВЕР  МОЖЕТ СЛОМАТЬСЯ⚠️)
