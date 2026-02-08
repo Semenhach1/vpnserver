@@ -3,7 +3,7 @@
 #profile-update-interval: 1
 #profile-title: Rockville VPN
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSE=
-vless://c66e39b6-9556-4218-9be8-da2c7ed4f721@midorinote.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#Основной 🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQmlhQ3h3RUFZaFJiOWwydUJXWkJuSVVF@basic-ru-0.undef.network:41719#Youtube 🇷🇺
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click#Норвегия (boost) 🇳🇴
+trojan://8GP3daAMIf9HrIu9ikmFQ731r@free-de-2.undef.network:443?sni=free-de-2.undef.network&host=free-de-2.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Германия (основа) (выбор пользователей) 🇩🇪
+vless://c66e39b6-9556-4218-9be8-da2c7ed4f721@midorinote.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#Нидерланды (запасной) 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eDJoYjY3Nlp3NUFUcjNXWXBrVXBmM2o5@basic-ru-0.undef.network:43291#Youtube, Discord 🇷🇺
 vless://ce7f5e28-d72d-4006-8d70-f428a4721910@77.83.245.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#Белые списки, тест
