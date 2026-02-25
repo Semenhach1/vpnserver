@@ -3,8 +3,4 @@
 #profile-update-interval: 1
 #profile-title: Rockville VPN
 #announce: base64:4pqg77iP0J3QsNCx0LvRjtC00LDRjtGC0YHRjyDQv9C10YDQtdCx0L7QuCDQsiDRgNCw0LHQvtGC0LUg0LLQv9C94pqg77iP
-vless://491b0b7a-32e7-4462-8664-07fc45e00f85@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%B4%D0%BD%D0%B8%D1%8F%20
-vless://c66e39b6-9556-4218-9be8-da2c7ed4f721@midorinote.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#Нидерланды (запасной) 🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eDJoYjY3Nlp3NUFUcjNXWXBrVXBmM2o5@basic-ru-0.undef.network:43291#Youtube, Discord 🇷🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#Нидерланды (boost) 🇳🇱
-vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#Белые списки (beta) 🏳
+vless://491b0b7a-32e7-4462-8664-07fc45e00f85@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=ya.ru#Мы закрылись ⛔️
