@@ -3,7 +3,7 @@
 #profile-update-interval: 1
 #profile-title: Ring VPN
 #announce: base64:4p2k77iPINCb0LXRgtCw0LXRgiDRgNCw0LTQuCDQstCw0YEg4p2k77iP
-#profile-web-page-url: https://ring-vpn.rf.gd
+#profile-web-page-url: https://ring-vpn.xo.je
 trojan://e70f435af42b2ffe643cef2a7dec6cd9@vpn.aprux.ru:443?security=tls&headerType=none&type=tcp&sni=vpn.aprux.ru#Германия Trojan 🇩🇪
 
 vless://465562f5-dc5c-4427-b40f-077ef3580db1@vpn.aprux.ru:8443?security=reality&encryption=none&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2cb6#Германия, запасная Vless 🇩🇪
