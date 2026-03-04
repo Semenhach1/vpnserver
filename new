@@ -5,11 +5,9 @@
 #announce: base64:4p2k77iPINCb0LXRgtCw0LXRgiDRgNCw0LTQuCDQstCw0YEg4p2k77iP
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
-vless://05e0a7e7-1b55-4a61-9c99-3d2629b93f5f@87.121.82.108:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=if.primarymaster.online&fp=chrome&pbk=EaRQAugh8pPPPPpJ45NoxcHRP7qwhzlp2bAUwCUuDCA&sid=c661ddc7be80dd89#💥Финляндия💥 🇫🇮 
+trojan://e70f435af42b2ffe643cef2a7dec6cd9@vpn.aprux.ru:443?security=tls&headerType=none&type=tcp&sni=vpn.aprux.ru#Германия ⚡ 🇩🇪
 
-trojan://e70f435af42b2ffe643cef2a7dec6cd9@vpn.aprux.ru:443?security=tls&headerType=none&type=tcp&sni=vpn.aprux.ru#Германия Trojan 🇩🇪
-
-vless://465562f5-dc5c-4427-b40f-077ef3580db1@vpn.aprux.ru:8443?security=reality&encryption=none&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2cb6#Германия, запасная Vless 🇩🇪
+vless://7e168cf3-331b-43bd-a75d-6aeb5b208823@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#Германия–de–3 🇩🇪
 
 trojan://UIYN3sMPG2zNJFPoz8CiKxDAl@hl-freedom-1.undef.network:443?sni=hl-freedom-1.undef.network&host=hl-freedom-1.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
 
