@@ -9,6 +9,7 @@ trojan://e70f435af42b2ffe643cef2a7dec6cd9@vpn.aprux.ru:443?security=tls&headerTy
 
 vless://7e168cf3-331b-43bd-a75d-6aeb5b208823@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#Германия–de–3 🇩🇪
 
+vless://465562f5-dc5c-4427-b40f-077ef3580db1@85.209.135.109:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yandex.com&sid=66cdf2#YouTube + Белые списки 🇷🇺
+
 trojan://UIYN3sMPG2zNJFPoz8CiKxDAl@hl-freedom-1.undef.network:443?sni=hl-freedom-1.undef.network&host=hl-freedom-1.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnTXZ5WlNHdU1mYnlHdGVBN0JPSGRkc1hy@basic-ru-0.undef.network:45179#Россия 🇷🇺
