@@ -2,7 +2,7 @@
 #subscription-userinfo: upload=1234567; download=51648578304; total=5500000000000; expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN
-#announce: base64:4p2k77iPINCb0LXRgtCw0LXRgiDRgNCw0LTQuCDQstCw0YEg4p2k77iP
+#announce: base64:4p2k77iP4p2k77iP0KEgOCDQvNCw0YDRgtCwIPCfkpAg8J+Rh+KdpO+4j+KdpO+4jw==
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
 trojan://e70f435af42b2ffe643cef2a7dec6cd9@vpn.aprux.ru:443?security=tls&headerType=none&type=tcp&sni=vpn.aprux.ru#Германия ⚡ 🇩🇪
