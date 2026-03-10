@@ -2,10 +2,9 @@
 #subscription-userinfo: upload=1234567; download=517648578304; total=5500000000000; expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN
-#announce: base64:4pqg77iP0JLQvdC40LzQsNC90LjQteKaoO+4jwoxMC4wMy4yMDI2INCT0LXRgNC80LDQvdC40Y8g4pqhINC4INCV0LLRgNC+0L/QsCDQsdGD0LTRg9GCINGD0LTQsNC70LXQvdGL
+#announce: base64:0KEgMTAuMDMuMjAyNiDQk9C10YDQvNCw0L3QuNGPIOKaoSDQvtGC0LrQu9GO0YfQtdC90LAK0KEg0LvRjtCx0L7QstGM0Y4sIFJpbmcgVlBOIOKdpO+4jw==
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
-trojan://e70f435af42b2ffe643cef2a7dec6cd9@vpn.aprux.ru:443?security=tls&headerType=none&type=tcp&sni=vpn.aprux.ru#Германия ⚡ 🇩🇪
 
 vless://7fb6498e-fc9e-4d50-97f6-db70d674530d@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#Германия De-3 🇩🇪
 
@@ -13,5 +12,4 @@ vless://5d6175d1-7760-469b-acaf-4b4e3c192d85@87.121.82.107:443?security=reality&
 
 vless://465562f5-dc5c-4427-b40f-077ef3580db1@85.209.135.109:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yandex.com&sid=66cdf2#YouTube + Белые списки 🇷🇺
 
-trojan://UIYN3sMPG2zNJFPoz8CiKxDAl@hl-freedom-1.undef.network:443?sni=hl-freedom-1.undef.network&host=hl-freedom-1.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
 
