@@ -2,8 +2,10 @@
 #subscription-userinfo: upload=1234567; download=517648578304; total=5500000000000; expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN
-#announce: base64:0KEgMTAuMDMuMjAyNiDQk9C10YDQvNCw0L3QuNGPIOKaoSDQvtGC0LrQu9GO0YfQtdC90LAK0KEg0LvRjtCx0L7QstGM0Y4sIFJpbmcgVlBOIOKdpO+4jw==
+#announce: base64:4p2k77iP0JHQtdGB0L/Qu9Cw0YLQvdC+LiDQndCw0LLRgdC10LPQtNCwLiDQkdC10Lcg0YHQvNGBLuKdpO+4jw==
 #profile-web-page-url: https://ring-vpn.ct.ws/
+
+trojan://e6a2e8dc4d124efebc970add718de37b@vpn.aprux.ru:443?security=tls&alpn=h2,http/1.1&headerType=none&allowinsecure=0&type=tcp&sni=vpn.aprux.ru#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%9A%A1+%F0%9F%87%A9%F0%9F%87%AA
 
 vless://93b89c69-9ed9-4991-84c6-dc65cdceb965@b.primarymaster.online:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=b.primarymaster.online&fp=chrome&pbk=SPHl8eat6QSJ5ptl9l-08tu1vEf_1QHRazZrBuqM6z8&sid=4332e1e3ea3950fa#Германия De-10 🇩🇪
 
