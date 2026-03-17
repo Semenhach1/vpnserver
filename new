@@ -5,7 +5,7 @@
 #announce: base64:4pqg77iP0J3QsNCx0LvRjtC00LDRjtGC0YHRjyDQv9C10YDQtdCx0L7QuCDQsiDRgNCw0LHQvtGC0LUgINCy0L/QveKaoO+4jw==
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
-vless://465562f5-dc5c-4427-b40f-077ef3580db1@vpn.aprux.ru:8443?security=reality&encryption=none&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2cb6#Германия ⚡ 🇩🇪
+vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪
 
 vless://dbceb01b-d2a2-4016-989a-5850e9cf4872@91.84.120.233:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#Нидерланды (запасной) 🇳🇱
 
