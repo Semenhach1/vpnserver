@@ -7,8 +7,12 @@
 
 vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪
 
-vless://dbceb01b-d2a2-4016-989a-5850e9cf4872@91.84.120.233:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#Нидерланды (запасной) 🇳🇱
+trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
+
+
 
 vless://465562f5-dc5c-4427-b40f-077ef3580db1@85.209.135.109:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yandex.com&sid=66cdf2#YouTube, Discord 🇷🇺
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYkdZWFYwSnA0YlNBRDlERUpKaTdLc0pS@basic-ru-1.undef.network:40002#Россия (2) 🇷🇺
 
 
