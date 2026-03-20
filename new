@@ -2,10 +2,12 @@
 1#subscription-userinfo: upload=1234567; download=517648578304; total=5500000000000; expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN
-#announce: base64:4pqg77iP0J3QsNCx0LvRjtC00LDRjtGC0YHRjyDQv9C10YDQtdCx0L7QuCDQsiDRgNCw0LHQvtGC0LUgINCy0L/QveKaoO+4jw==
+#announce: base64:4pqh0JTQntCR0JDQktCY0JvQmCDQntCR0KXQntCUICDQkdCV0JvQq9ClICDQodCf0JjQodCa0J7QkiDimqE=
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
-vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪
+vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪 
+
+vless://b80ea2c8-8bf5-48e5-9b36-dd7cf9dd230a@90.156.214.10:443?security=reality&encryption=none&pbk=7G1Hv-YQ347DIbLeuLFf5zmuBpYTc5A0yC1_KtNAvhg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=ads.x5.ru&sid=bb#⚡ОБХОД БЕЛЫХ СПИСКОВ ⚡ 🇷🇺
 
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺
 
