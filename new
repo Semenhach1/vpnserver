@@ -2,7 +2,7 @@
 1#subscription-userinfo: upload=1234567; download=517648578304; total=5500000000000; expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN
-#announce: base64:4pqh0JTQntCR0JDQktCY0JvQmCDQntCR0KXQntCUICDQkdCV0JvQq9ClICDQodCf0JjQodCa0J7QkiDimqE=
+#announce: base64:4pqg77iP0JLQoNCV0JzQldCd0J3QniDQo9CR0KDQkNCb0Jgg0J7QkdCl0J7QlCDQkdCV0JvQq9ClICDQodCf0JjQodCa0J7QkiDimqDvuI8K0KHQtdGA0LLQtdGAINC90LUg0LLRi9C00LXRgNC20LjQstCw0LXRgiDQstCw0YEp
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
 vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪 
