@@ -5,7 +5,9 @@
 #announce: base64:4puU77iP0JHQtdC70YvQtSDRgdC/0LjRgdC60LggINC90LXQtNC+0YHRgtGD0L/QvdGL0YUsINC/0L7QutCwINC80Ysg0L3QtSDQvdCw0LnQtNGR0LwgINGB0LXRgNCy0LXRgCAg0LTQtdGI0LXQstC70LUg4puU77iP
 #profile-web-page-url: https://ring-vpn.ct.ws/
 
-vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪 
+vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=2oFey6BQD6Ev0nMR0haXHOtQy63a3JZzb_hYVmPJLSk&fp=firefox&sni=google.com&sid=2cb6&spx=%2F#Германия ⚡🇩🇪  
+
+vless://a4041b86-bd0a-43e2-aa80-a9e6ffac5f89@bs.aprux.ru:443?security=reality&encryption=none&pbk=nfffVTfUshuUXGBsDnNE9p_A-bnP5zPAE6a0n_JVWTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=92#%F0%9F%8C%90%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
 
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺 
 
