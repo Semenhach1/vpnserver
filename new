@@ -11,9 +11,7 @@ vless://a4041b86-bd0a-43e2-aa80-a9e6ffac5f89@bs.aprux.ru:443?security=reality&en
 
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺 
 
-vless://d500766a-f059-465c-a37a-bb4044dbade6@r2.noode.work:443?security=reality&encryption=none&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=f74c6a18133e2e72#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-
-vless://d500766a-f059-465c-a37a-bb4044dbade6@83.166.254.183:443?security=reality&encryption=none&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=dfdee30a27b11f0f#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F+%7C+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+5
+vless://d500766a-f059-465c-a37a-bb4044dbade6@83.166.253.166:11001?mode=gun&security=reality&encryption=none&authority=&pbk=WLZIQ20n-ph40A99tqbxNYN3CDB1tc7J7a7LTCcGuVI&fp=random&spx=%2F&allowinsecure=0&type=grpc&serviceName=grpc_vless&sni=eh.vk.com&sid=9b7973f7e05c571f#%F0%9F%A4%96+%D0%94%D0%BB%D1%8F+%D0%98%D0%98+%2F+%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B9
 
 vless://465562f5-dc5c-4427-b40f-077ef3580db1@85.209.135.109:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.com&sid=66cdf2#%F0%9F%87%B7%F0%9F%87%BA%20YouTube
 
