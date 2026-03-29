@@ -17,7 +17,7 @@ vless://a4041b86-bd0a-43e2-aa80-a9e6ffac5f89@bs.aprux.ru:443?security=reality&en
 
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺 
 
-vless://d500766a-f059-465c-a37a-bb4044dbade6@83.166.253.166:11001?mode=gun&security=reality&encryption=none&authority=&pbk=WLZIQ20n-ph40A99tqbxNYN3CDB1tc7J7a7LTCcGuVI&fp=random&spx=%2F&allowinsecure=0&type=grpc&serviceName=grpc_vless&sni=eh.vk.com&sid=9b7973f7e05c571f#%F0%9F%A4%96+%D0%94%D0%BB%D1%8F+%D0%98%D0%98+%2F+%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B9
+vless://f0b0e142-0768-458b-b481-671ed2018741@ru-5.barryvpn.com:443?security=reality&encryption=none&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#Австрия 🇦🇹
 
 vless://465562f5-dc5c-4427-b40f-077ef3580db1@85.209.135.109:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.com&sid=66cdf2#%F0%9F%87%B7%F0%9F%87%BA%20YouTube
 
