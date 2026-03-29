@@ -1,4 +1,5 @@
 #providerid CgI0zXWO
+#subscription-always-hwid-enable: 1
 #hide-settings: 1
 #subscription-userinfo: expire=1798750800
 #profile-update-interval: 1
