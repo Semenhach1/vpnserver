@@ -13,7 +13,7 @@ vless://dea54c88-e567-4f99-96ab-ad687f62790b@vpn.aprux.ru:8443?security=reality&
 
 vless://e227703f-d0d1-4f74-9547-9368439c6fff@fin.aprux.ru:8443?security=reality&encryption=none&pbk=qh09oMH5d3OWilniu8_8hC42ZPr8hvdUrOK6xq-QWWg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b670#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
-vless://a4041b86-bd0a-43e2-aa80-a9e6ffac5f89@bs.aprux.ru:443?security=reality&encryption=none&pbk=nfffVTfUshuUXGBsDnNE9p_A-bnP5zPAE6a0n_JVWTs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=92#%F0%9F%8C%90%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8 (временно не работают)
+vless://a4041b86-bd0a-43e2-aa80-a9e6ffac5f89@bs.aprux.ru:443?security=reality&encryption=none&pbk=nfffVTfUshuUXGBsDnNE9p_A-bnP5zPAE6a0n_JVWTs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=92#%F0%9F%8C%90%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
 
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺 
 
