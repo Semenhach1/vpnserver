@@ -9,9 +9,7 @@
 #announce: base64:4oCTINC30LDQvNC10L3QuNC70Lgg0JPQtdGA0LzQsNC90LjRjiDwn4ep8J+HqiAg0L3QsCDQndC40LTQtdGA0LvQsNC90LTRiyDwn4ez8J+HsQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
 #profile-web-page-url: https://ring-vpn.free.nf
 
-vless://49a87d6a-5859-42f2-9af2-0940aad4130f@ger.aprux.ru:443?security=reality&encryption=none&pbk=yf1OY3XmIe72GHTf8-ivRiaMAsFEpECOGYuiueQh8n8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=4205ff7e#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F ⚡
-
-vless://8c4239c0-5d6e-4523-b3eb-c28ebc92d337@147.45.43.223:443?security=reality&encryption=none&pbk=BBJ9pdfWy3IVik5T3dXYqTMj69cdj9q7uE7KkGeJ33U&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e07ed3a2#Нидерланды 🇳🇱 ⚡
+vless://7b389ac8-5982-41a7-958a-dcd480e13f48@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#21.de-03.%20-%20user_hhpdig
 
 vless://e227703f-d0d1-4f74-9547-9368439c6fff@fin.aprux.ru:8443?security=reality&encryption=none&pbk=qh09oMH5d3OWilniu8_8hC42ZPr8hvdUrOK6xq-QWWg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b670#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
