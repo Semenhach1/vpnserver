@@ -7,5 +7,5 @@
 #profile-title: vpn
 1#announce: base64:4oCTINC30LDQvNC10L3QuNC70Lgg0JPQtdGA0LzQsNC90LjRjiDwn4ep8J+HqiAg0L3QsCDQndC40LTQtdGA0LvQsNC90LTRiyDwn4ez8J+HsQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
 #profile-web-page-url: https://ring-vpn.free.nf
-vless://f0b0e142-0768-458b-b481-671ed2018741@auto-5.barryvpn.com:443?security=reality&encryption=none&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru-streaming.barryvpn.com&sid=0123456789abcdef#Европа AI 🇪🇺?serverDescription=0JrQvtC80LDQvdC00LAgMQ==
+vless://7b389ac8-5982-41a7-958a-dcd480e13f48@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#21.de-03%20-%20user_hhpdig
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#_03-18EU_FREE
