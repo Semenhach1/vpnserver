@@ -9,19 +9,18 @@
 #announce: base64:4oCTINC00L7QsdCw0LLQuNC70Lgg0L7QsdGF0L7QtCDQsdC10LvRi9GFINGB0L/QuNGB0LrQvtCyICjQsdGBKQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
 #profile-web-page-url: https://ring-vpn.free.nf
 
-vless://7b389ac8-5982-41a7-958a-dcd480e13f48@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#Германия 🇩🇪
+vless://16129f81-8a6b-44e8-bbe4-f8ae830dddf0@45.66.228.4:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=de3.hitori.cloud&fp=chrome&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&sid=f43daf211bcea205#Германия Wi-Net 🇩🇪
+vless://8d3a90e4-8ead-4f1b-96de-ce74b2d107b2@87.121.82.107:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=fi.primarymaster.online&fp=chrome&pbk=oKn4BwN_jOxOLIrcfkBALWZ3NQUR-ByrPIP5eM1BFys&sid=1b106b719e161899#Финляндия Wi-Net 🇫🇮
+
 
 vless://dcc04725-020f-4c81-aea9-2f6ef99fa0ca@193.233.233.26:443?security=reality&encryption=none&pbk=7DBnPhcXc7B8dErqp5XK9JAym1GfFtTXSb1Ic53CX3g&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=0fda#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F ⚡
-
-vless://27340316-79a1-44f6-936d-3b70674cd93f@fin.aprux.ru:8443?security=reality&encryption=none&pbk=qh09oMH5d3OWilniu8_8hC42ZPr8hvdUrOK6xq-QWWg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b670#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F ⚡
 
 trojan://j5aTZm2sfSYjPZJK0wbKQO76h@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 🇪🇺 
 
 vless://f0b0e142-0768-458b-b481-671ed2018741@auto-5.barryvpn.com:443?security=reality&encryption=none&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru-streaming.barryvpn.com&sid=0123456789abcdef#Европа (2) 🇪🇺?serverDescription=0JrQvtC80LDQvdC00LAgMQ==
 
-vless://465562f5-dc5c-4427-b40f-077ef3580db1@youtube.aprux.ru:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=66cdf2#%F0%9F%87%B7%F0%9F%87%BA%20YouTube
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYkdZWFYwSnA0YlNBRDlERUpKaTdLc0pS@basic-ru-1.undef.network:40002#Россия (2) 🇷🇺
+vless://6d045fc1-9627-4b1d-a760-9715e1452a1d@youtube.aprux.ru:443?security=reality&encryption=none&pbk=VL4reDUTquTCfuINQQl0moaTTgzcJCAL-x70RDy1qy4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=66cdf2#%F0%9F%87%B7%F0%9F%87%BA%20YouTube
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYkdZWFYwSnA0YlNBRDlERUpKaTdLc0pS@basic-ru-1.undef.network:40002#YouTube (2) 🇷🇺
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYkdZWFYwSnA0YlNBRDlERUpKaTdLc0pS@basic-ru-1.udef.network:40002#Обход белых списков:
 vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@fi-bridge.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#%E2%9A%A1%20%D0%90%D0%B2%D1%82%D0%BE
