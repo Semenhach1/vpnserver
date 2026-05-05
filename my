@@ -8,10 +8,8 @@
 #profile-title: Ring VPN • ✅ Licenced
 #announce: base64:4oCTINC00L7QsdCw0LLQuNC70Lgg0L7QsdGF0L7QtCDQsdC10LvRi9GFINGB0L/QuNGB0LrQvtCyICjQsdGBKQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
 #profile-web-page-url: https://ring-vpn.free.nf
-vless://f0b0e142-0768-458b-b481-671ed2018741@auto-5.barryvpn.com:443?security=reality&encryption=none&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru-streaming.barryvpn.com#Европа 1 Wi-Net 🇪🇺?serverDescription=0JrQvtC80LDQvdC00LAgMQ== 
-vless://f0b0e142-0768-458b-b481-671ed2018741@auto-5.barryvpn.com:8443?security=reality&encryption=none&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate-test.x5.ru&sid=0123456789abcdef#Европа 2 Wi-Net 🇪🇺?serverDescription=0JrQvtC80LDQvdC00LAgMQ==
-vless://f0b0e142-0768-458b-b481-671ed2018741@tg.barryvpn.com:443?security=reality&encryption=none&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0123456789adcdea#%F0%9F%87%B8%F0%9F%87%B4+%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+telegram%21
-
+vless://f0b0e142-0768-458b-b481-671ed2018741@auto-5.barryvpn.com:443?security=reality&encryption=none&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru-streaming.barryvpn.com&sid=0123456789abcdef#Европа Free 🇪🇺?serverDescription=0JrQvtC80LDQvdC00LAgMQ==
+vless://f0b0e142-0768-458b-b481-671ed2018741@tg-1.barryvpn.com:8443?security=reality&encryption=none&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0123456789adcdea#%F0%9F%87%B8%F0%9F%87%B4+%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+Telegram%21
 
 
 # --- 🇩🇪 Германия ---
