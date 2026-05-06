@@ -10,27 +10,11 @@
 #profile-web-page-url: https://ring-vpn.free.nf
 
 
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@at.c2horizon.app:443?type=tcp&security=reality&fp=qq&sni=at.c2horizon.app&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision&encryption=none#🇦🇹%20Австрия
 
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@fr.c2horizon.app:443?type=tcp&security=reality&fp=edge&sni=fr.c2horizon.app&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision&encryption=none#🇫🇷%20Франция
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-shino1.kyras.pw:443?type=tcp&security=reality&fp=chrome&sni=free-shino1.kyras.pw&pbk=5frScI-nCOzCEk_G-sAg-QeNFBJYxbYI7J4dsXXoYnE&sid=dd45ea17e2c4c6a5&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Германия
 
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@de2.c2horizon.app:443?type=tcp&security=reality&fp=qq&sni=de2.c2horizon.app&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Германия%20%7C%20Быстрый ⚡
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-shino1.kyras.pw:443?type=tcp&security=reality&fp=chrome&sni=free-shino1.kyras.pw&pbk=5frScI-nCOzCEk_G-sAg-QeNFBJYxbYI7J4dsXXoYnE&sid=dd45ea17e2c4c6a5&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Финляндия
 
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@ru.c2horizon.app:443?encryption=none&type=tcp#🇷🇺 Россия | Для YouTube
+vless://832f76f8-fca3-4efa-80be-870e123ad764@95.85.246.16.speed-storage.ru:573?security=tls&encryption=none&alpn=&fp=safari&sni=95.85.246.16.speed-storage.ru&flow=&type=grpc&serviceName=/sequre/grpc/&mode=gun&headerType=none#🇵🇱 Польша
 
 vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?security=reality&encryption=none&alpn=&fp=firefox&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&sid=0199436dd359351b&sni=apple.com&flow=xtls-rprx-vision&type=tcp&headerType=none#🇳🇱 Нидерланды
-
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?security=reality&encryption=none&alpn=&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com&flow=xtls-rprx-vision&type=tcp&headerType=none#🇪🇪 Эстония | Игровой
-
-vless://832f76f8-fca3-4efa-80be-870e123ad764@95.85.246.16.speed-storage.ru:573?security=tls&encryption=none&alpn=&fp=safari&sni=95.85.246.16.speed-storage.ru&flow=&type=grpc&serviceName=/sequre/grpc/&mode=gun&headerType=none#🇵🇱 Польша | Игровой
-
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.186.150:443?type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=71f0b07a98c840c7&flow=xtls-rprx-vision&encryption=none#🇸🇴%20Обход%20глушилок
-
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.150.233:443?type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0&flow=xtls-rprx-vision&encryption=none#🇸🇴%20Обход%20глушилок
-
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.249.158:8443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sni=ads.x5.ru&fp=chrome&sid=cf4d&type=tcp&flow=xtls-rprx-vision#🇸🇴 Обход глушилок
-
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.241.119:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sni=ads.x5.ru&fp=qq&sid=c4caf3f1848a&type=tcp&flow=xtls-rprx-vision#🇸🇴 Обход глушилок
-
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.170.111:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sni=ads.x5.ru&fp=chrome&sid=71f0b07a98c840c7&type=tcp&flow=xtls-rprx-vision#🇸🇴 Обход глушилок
-
