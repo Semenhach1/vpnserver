@@ -128,8 +128,8 @@ async def init_db() -> None:
 
 def main_menu_keyboard():
     kb = ReplyKeyboardBuilder()
-    kb.button(text="Получить сервер")
-    kb.button(text="Профиль")
+    kb.button(text="🖥 Получить сервер")
+    kb.button(text="👤 Профиль")
     kb.adjust(2)
     return kb.as_markup(resize_keyboard=True)
 
@@ -145,20 +145,20 @@ def products_keyboard(products: list[Product]):
 def buy_keyboard(product_id: int):
     return InlineKeyboardMarkup(
         inline_keyboard=[
-            [InlineKeyboardButton(text="Купить за 1 токен", callback_data=f"buy:{product_id}")]
+            [InlineKeyboardButton(text="🪙 Купить за 1 токен", callback_data=f"buy:{product_id}")]
         ]
     )
 
 
 def admin_keyboard():
     kb = ReplyKeyboardBuilder()
-    kb.button(text="Админ: Бан")
-    kb.button(text="Админ: Разбан")
-    kb.button(text="Админ: Добавить товар")
-    kb.button(text="Админ: Рассылка")
-    kb.button(text="Админ: Раздать токены всем")
-    kb.button(text="Админ: Изм. токены по ID")
-    kb.button(text="Админ: Изменить welcome бонус")
+    kb.button(text="🚫 Админ: Бан")
+    kb.button(text="✅ Админ: Разбан")
+    kb.button(text="➕ Админ: Добавить товар")
+    kb.button(text="📣 Админ: Рассылка")
+    kb.button(text="🎁 Админ: Раздать токены всем")
+    kb.button(text="🆔 Админ: Изм. токены по ID")
+    kb.button(text="⚙️ Админ: Изменить welcome бонус")
     kb.adjust(2)
     return kb.as_markup(resize_keyboard=True)
 
@@ -193,11 +193,11 @@ async def cmd_start(message: Message):
     async with SessionLocal() as session:
         user = await get_or_create_user(session, message.from_user)
         if user.is_banned:
-            await message.answer("Вы заблокированы.")
+            await message.answer("🚫 Вы заблокированы.")
             return
 
         await message.answer(
-            "Добро пожаловать! Используйте кнопки ниже.",
+            "👋 Добро пожаловать! Используйте кнопки ниже.",
             reply_markup=main_menu_keyboard(),
         )
 
@@ -205,24 +205,24 @@ async def cmd_start(message: Message):
 @dp.message(Command("admin"))
 async def cmd_admin(message: Message):
     if not await is_admin(message.from_user.id):
-        await message.answer("Недостаточно прав.")
+        await message.answer("⛔ Недостаточно прав.")
         return
-    await message.answer("Панель администратора", reply_markup=admin_keyboard())
+    await message.answer("🛠 Панель администратора", reply_markup=admin_keyboard())
 
 
-@dp.message(F.text == "Получить сервер")
+@dp.message(F.text == "🖥 Получить сервер")
 async def get_server(message: Message):
     async with SessionLocal() as session:
         user = await get_or_create_user(session, message.from_user)
         if user.is_banned:
-            await message.answer("Вы заблокированы.")
+            await message.answer("🚫 Вы заблокированы.")
             return
 
         products = (await session.scalars(select(Product))).all()
         if not products:
-            await message.answer("Пока нет доступных серверов.")
+            await message.answer("📭 Пока нет доступных серверов.")
             return
-        await message.answer("Выберите сервер:", reply_markup=products_keyboard(products))
+        await message.answer("🌐 Выберите сервер:", reply_markup=products_keyboard(products))
 
 
 @dp.callback_query(F.data.startswith("product:"))
@@ -231,7 +231,7 @@ async def product_info(call: CallbackQuery):
     async with SessionLocal() as session:
         product = await session.get(Product, product_id)
         if not product:
-            await call.answer("Товар не найден", show_alert=True)
+            await call.answer("❌ Товар не найден", show_alert=True)
             return
         await call.message.answer(product.description_html, reply_markup=buy_keyboard(product.id))
         await call.answer()
@@ -243,26 +243,26 @@ async def buy_product(call: CallbackQuery):
     async with SessionLocal() as session:
         user = await get_or_create_user(session, call.from_user)
         if user.is_banned:
-            await call.answer("Вы заблокированы", show_alert=True)
+            await call.answer("🚫 Вы заблокированы", show_alert=True)
             return
 
         product = await session.get(Product, product_id)
         if not product:
-            await call.answer("Товар не найден", show_alert=True)
+            await call.answer("❌ Товар не найден", show_alert=True)
             return
 
         if user.tokens < 1:
-            await call.answer("Недостаточно токенов", show_alert=True)
+            await call.answer("🪙 Недостаточно токенов", show_alert=True)
             return
 
         user.tokens -= 1
         session.add(Order(user_id=user.id, product_id=product.id))
         await session.commit()
         await call.message.answer(product.purchase_text_html)
-        await call.answer("Покупка успешна")
+        await call.answer("✅ Покупка успешна")
 
 
-@dp.message(F.text == "Профиль")
+@dp.message(F.text == "👤 Профиль")
 async def profile(message: Message):
     async with SessionLocal() as session:
         user = await get_or_create_user(session, message.from_user)
@@ -276,35 +276,35 @@ async def profile(message: Message):
             )
         ).all()
 
-        lines = [f"<b>Ваш профиль</b>", f"ID: <code>{user.id}</code>", f"Токены: <b>{user.tokens}</b>", "", "<b>Последние 3 заказа:</b>"]
+        lines = [f"<b>👤 Ваш профиль</b>", f"ID: <code>{user.id}</code>", f"Токены: <b>{user.tokens}</b>", "", "<b>📦 Последние 3 заказа:</b>"]
         if not orders:
-            lines.append("— Нет заказов")
+            lines.append("— 😔 Нет заказов")
         else:
             for order, prod in orders:
                 lines.append(f"— {html.escape(prod.title)} ({order.created_at:%Y-%m-%d %H:%M})")
         await message.answer("\n".join(lines))
 
 
-@dp.message(F.text == "Админ: Добавить товар")
+@dp.message(F.text == "➕ Админ: Добавить товар")
 async def admin_add_product(message: Message, state: FSMContext):
     if not await is_admin(message.from_user.id):
         return
     await state.set_state(AddProductState.waiting_title)
-    await message.answer("Введите название товара (текст кнопки):")
+    await message.answer("✍️ Введите название товара (текст кнопки):")
 
 
 @dp.message(AddProductState.waiting_title)
 async def add_product_title(message: Message, state: FSMContext):
     await state.update_data(title=message.text)
     await state.set_state(AddProductState.waiting_description)
-    await message.answer("Введите описание товара (HTML поддерживается):")
+    await message.answer("📝 Введите описание товара (HTML поддерживается):")
 
 
 @dp.message(AddProductState.waiting_description)
 async def add_product_description(message: Message, state: FSMContext):
     await state.update_data(description=message.html_text or message.text)
     await state.set_state(AddProductState.waiting_purchase_text)
-    await message.answer("Введите текст после покупки (HTML поддерживается):")
+    await message.answer("💬 Введите текст после покупки (HTML поддерживается):")
 
 
 @dp.message(AddProductState.waiting_purchase_text)
@@ -320,17 +320,17 @@ async def add_product_purchase_text(message: Message, state: FSMContext):
         )
         await session.commit()
     await state.clear()
-    await message.answer("Товар добавлен ✅")
+    await message.answer("✅ Товар добавлен")
 
 
-@dp.message(F.text.in_({"Админ: Бан", "Админ: Разбан"}))
+@dp.message(F.text.in_({"🚫 Админ: Бан", "✅ Админ: Разбан"}))
 async def admin_ban_prompt(message: Message, state: FSMContext):
     if not await is_admin(message.from_user.id):
         return
     action = "ban" if "Бан" in message.text else "unban"
     await state.set_state(SetTokensByIdState.waiting_user_id)
     await state.update_data(action=action)
-    await message.answer("Введите ID пользователя:")
+    await message.answer("🆔 Введите ID пользователя:")
 
 
 @dp.message(SetTokensByIdState.waiting_user_id)
@@ -338,32 +338,32 @@ async def process_user_id_action(message: Message, state: FSMContext):
     data = await state.get_data()
     if data.get("action") in {"ban", "unban"}:
         if not message.text.isdigit():
-            await message.answer("ID должен быть числом")
+            await message.answer("⚠️ ID должен быть числом")
             return
         user_id = int(message.text)
         async with SessionLocal() as session:
             user = await session.get(User, user_id)
             if not user:
-                await message.answer("Пользователь не найден")
+                await message.answer("❌ Пользователь не найден")
             else:
                 user.is_banned = data["action"] == "ban"
                 await session.commit()
-                await message.answer("Готово")
+                await message.answer("✅ Готово")
         await state.clear()
         return
 
     await state.update_data(target_user_id=int(message.text))
     await state.set_state(SetTokensByIdState.waiting_delta)
-    await message.answer("Введите число токенов (может быть отрицательным):")
+    await message.answer("🪙 Введите число токенов (может быть отрицательным):")
 
 
-@dp.message(F.text == "Админ: Изм. токены по ID")
+@dp.message(F.text == "🆔 Админ: Изм. токены по ID")
 async def admin_set_tokens_id(message: Message, state: FSMContext):
     if not await is_admin(message.from_user.id):
         return
     await state.set_state(SetTokensByIdState.waiting_user_id)
     await state.update_data(action="token_delta")
-    await message.answer("Введите ID пользователя:")
+    await message.answer("🆔 Введите ID пользователя:")
 
 
 @dp.message(SetTokensByIdState.waiting_delta)
@@ -371,7 +371,7 @@ async def process_delta(message: Message, state: FSMContext):
     try:
         delta = int(message.text)
     except ValueError:
-        await message.answer("Введите целое число")
+        await message.answer("⚠️ Введите целое число")
         return
 
     data = await state.get_data()
@@ -379,7 +379,7 @@ async def process_delta(message: Message, state: FSMContext):
     async with SessionLocal() as session:
         user = await session.get(User, uid)
         if not user:
-            await message.answer("Пользователь не найден")
+            await message.answer("❌ Пользователь не найден")
         else:
             user.tokens += delta
             await session.commit()
@@ -387,12 +387,12 @@ async def process_delta(message: Message, state: FSMContext):
     await state.clear()
 
 
-@dp.message(F.text == "Админ: Раздать токены всем")
+@dp.message(F.text == "🎁 Админ: Раздать токены всем")
 async def admin_give_all_prompt(message: Message, state: FSMContext):
     if not await is_admin(message.from_user.id):
         return
     await state.set_state(GiveTokensState.waiting_amount)
-    await message.answer("Сколько токенов добавить всем пользователям?")
+    await message.answer("❓ Сколько токенов добавить всем пользователям?")
 
 
 @dp.message(GiveTokensState.waiting_amount)
@@ -400,22 +400,22 @@ async def admin_give_all(message: Message, state: FSMContext):
     try:
         amount = int(message.text)
     except ValueError:
-        await message.answer("Введите целое число")
+        await message.answer("⚠️ Введите целое число")
         return
 
     async with SessionLocal() as session:
         await session.execute(update(User).values(tokens=User.tokens + amount))
         await session.commit()
     await state.clear()
-    await message.answer(f"Готово. Всем начислено: {amount}")
+    await message.answer(f"✅ Готово. Всем начислено: {amount}")
 
 
-@dp.message(F.text == "Админ: Изменить welcome бонус")
+@dp.message(F.text == "⚙️ Админ: Изменить welcome бонус")
 async def admin_change_bonus_prompt(message: Message, state: FSMContext):
     if not await is_admin(message.from_user.id):
         return
     await state.set_state(ChangeBonusState.waiting_bonus)
-    await message.answer("Введите новый welcome бонус:")
+    await message.answer("🎉 Введите новый welcome бонус:")
 
 
 @dp.message(ChangeBonusState.waiting_bonus)
@@ -423,7 +423,7 @@ async def admin_change_bonus(message: Message, state: FSMContext):
     try:
         bonus = int(message.text)
     except ValueError:
-        await message.answer("Введите целое число")
+        await message.answer("⚠️ Введите целое число")
         return
 
     async with SessionLocal() as session:
@@ -431,15 +431,15 @@ async def admin_change_bonus(message: Message, state: FSMContext):
         settings.welcome_bonus = bonus
         await session.commit()
     await state.clear()
-    await message.answer(f"Welcome бонус изменён на {bonus}")
+    await message.answer(f"✅ Welcome бонус изменён на {bonus}")
 
 
-@dp.message(F.text == "Админ: Рассылка")
+@dp.message(F.text == "📣 Админ: Рассылка")
 async def admin_broadcast_prompt(message: Message, state: FSMContext):
     if not await is_admin(message.from_user.id):
         return
     await state.set_state(BroadcastState.waiting_content)
-    await message.answer("Отправьте сообщение для рассылки (текст/фото/видео, HTML поддерживается):")
+    await message.answer("📨 Отправьте сообщение для рассылки (текст/фото/видео, HTML поддерживается):")
 
 
 @dp.message(BroadcastState.waiting_content)
@@ -462,7 +462,7 @@ async def admin_broadcast_send(message: Message, state: FSMContext):
             failed += 1
 
     await state.clear()
-    await message.answer(f"Рассылка завершена. Отправлено: {sent}, ошибок: {failed}")
+    await message.answer(f"📊 Рассылка завершена. Отправлено: {sent}, ошибок: {failed}")
 
 
 async def main():
