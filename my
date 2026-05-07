@@ -13,11 +13,12 @@ vless://f0b0e142-0768-458b-b481-671ed2018741@tg-1.barryvpn.com:8443?security=rea
 
 trojan://B0eXxR9LThKI6yjt2zlHPSv4W@hl-freedom-0.undef.network:443?sni=HL-FREEDOM-0.UNDEF.NETWORK&host=hl-freedom-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#Европа 2 🇪🇺
 
+
 # --- 🇩🇪 Германия ---
 vless://2ef71f36-ef13-4bc9-afa2-ca7182c459a6@2.26.22.139:443?type=tcp&encryption=none&security=reality&fp=firefox&sni=google.com&spx=%2F&flow=xtls-rprx-vision&pbk=FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk&sid=2627#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 # --- 🇳🇱 Нидерланды ---
-vless://e860b696-4ba2-4ce4-9495-2052a6a67420@144.31.158.207:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://e860b696-4ba2-4ce4-9495-2052a6a67420@64.188.77.219:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 # --- 🇫🇮 Финляндия ---
-vless://58962351-50f3-4cbd-8cba-d5f31ee50713@144.31.143.86:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.apple.com&spx=%2F&flow=xtls-rprx-vision&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&sid=74db5d#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://58962351-50f3-4cbd-8cba-d5f31ee50713@64.188.76.112:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.apple.com&spx=%2F&flow=xtls-rprx-vision&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&sid=74db5d#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 # --- 🇵🇱 Польша ---
 vless://6b0a54c8-64f2-4af1-8768-e72991018b04@95.85.246.102:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
