@@ -6,19 +6,17 @@
 #subscription-userinfo: expire=1798750800
 #profile-update-interval: 1
 #profile-title: Ring VPN • ✅ Licenced
-#announce: base64:4oCTINC00L7QsdCw0LLQuNC70Lgg0L7QsdGF0L7QtCDQsdC10LvRi9GFINGB0L/QuNGB0LrQvtCyICjQsdGBKQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
+1#announce: base64:4oCTINC00L7QsdCw0LLQuNC70Lgg0L7QsdGF0L7QtCDQsdC10LvRi9GFINGB0L/QuNGB0LrQvtCyICjQsdGBKQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
 #profile-web-page-url: http://vpn.ring-project.ru/
 vless://1e7d56db-ca39-4b81-aa8e-c622fb5823f2@217.149.25.242:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Автоматический 🇸🇪
 vless://1e7d56db-ca39-4b81-aa8e-c622fb5823f2@109.73.195.96:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Youtube 🇷🇺
 
 
 # --- 🇳🇱 Нидерланды ---
-vless://197cef7c-cb12-41dd-a01b-ddfa6804c670@64.188.77.219:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://197cef7c-cb12-41dd-a01b-ddfa6804c670@2.26.20.214:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision-udp443&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 # --- 🇩🇪 Германия ---
-vless://49a87d6a-5859-42f2-9af2-0940aad4130f@2.26.22.139:443?type=tcp&encryption=none&security=reality&fp=firefox&sni=google.com&spx=%2F&flow=xtls-rprx-vision&pbk=FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk&sid=2627#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://49a87d6a-5859-42f2-9af2-0940aad4130f@2.26.22.139:443?type=tcp&encryption=none&security=reality&fp=firefox&sni=google.com&spx=%2F&flow=xtls-rprx-vision-udp443&pbk=FNUvdW0gSMh30g80qiD2LejYDzbh6vwUGtV3fbihwzk&sid=2627#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 # --- 🇫🇮 Финляндия ---
-vless://3849d207-3cee-49f5-88bc-2c882199335a@64.188.76.112:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.apple.com&spx=%2F&flow=xtls-rprx-vision&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&sid=74db5d#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://3849d207-3cee-49f5-88bc-2c882199335a@144.31.143.86:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.apple.com&spx=%2F&flow=xtls-rprx-vision-udp443&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&sid=74db5d#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 # --- 🇵🇱 Польша ---
-vless://b2978008-90b5-4275-b44b-2aa548aeae4c@95.85.246.102:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-# --- 🌐 Белые списки 1 ---
-vless://54aa50e0-1a7b-434e-b3f8-ff911d1c218c@158.160.227.187:443?security=reality&encryption=none&pbk=7G1Hv-YQ347DIbLeuLFf5zmuBpYTc5A0yC1_KtNAvhg&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=6af4b1c3#%F0%9F%8C%90+%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+1 (beta)
+vless://b2978008-90b5-4275-b44b-2aa548aeae4c@95.85.246.102:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision-udp443&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
