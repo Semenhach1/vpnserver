@@ -15,16 +15,10 @@ vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@193.160.209.193:443?type=tcp&securi
 
 
 
-vless://b7c142cc-74c2-4418-bd53-f1db91715378@144.31.251.140:8443?security=reality&encryption=none&pbk=ionF92Q65ohukej5um_MQUssa2_E6z45JptO0OCkDC8&sni=www.microsoft.com&fp=chrome&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#🇩🇪 Германия
 
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@de1.persik.host:443?type=tcp&security=reality&fp=random&sni=de1.persik.host&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&sid=3f6a3ab281699a9d&flow=xtls-rprx-vision&encryption=none#🇩🇪%20Германия%20⚡
-
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@fr.persik.host:443?type=tcp&security=reality&fp=chrome&sni=fr.persik.host&pbk=ukT8AXqgIhXvJ7MDoEbFo0ROVnW27DG25346s2VNFyI&sid=23fa34&flow=xtls-rprx-vision&encryption=none#🇫🇷%20Франция
-
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@fi1.persik.host:443?type=tcp&security=reality&fp=chrome&sni=fi1.persik.host&pbk=XfPQWevD1SzZqZFH9OwgpZMtn32lXcGtHBL8HpTeazI&sid=7fca3294af7763dc&flow=xtls-rprx-vision&encryption=none#🇫🇮%20Финляндия
-
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@nl2.persik.host:443?type=tcp&security=reality&fp=chrome&sni=nl2.persik.host&pbk=P4ISPSKgHLAL9WKued744CiRv8h1nK74yGkY-l4Z0D8&sid=46e3b2&flow=xtls-rprx-vision&encryption=none#🇳🇱%20Нидерланды
-
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@pl1.persik.host:443?type=tcp&security=reality&fp=chrome&sni=pl1.persik.host&pbk=UXzRpf-W-gaCaml2SOxAJNls2BP3qLoI6YDTZI24VkQ&sid=7bf9db8e1e93&flow=xtls-rprx-vision&encryption=none#🇵🇱%20Польша
-
-vless://672313be-a9ad-44b8-b87a-f407abd92c2b@at.persik.host:443?type=tcp&security=reality&fp=chrome&sni=at.persik.host&pbk=0PWYjgVF77OS9fFDEp_w5hq-y1RDwv8KCriiyUdhfGY&sid=c7819a4e&flow=xtls-rprx-vision&encryption=none#🇦🇹%20Австрия
+# --- 🇵🇱 Польша ---
+vless://c38d0c9b-8b8b-5e69-a440-9eb93517716e@95.85.246.102:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+# --- 🇳🇱 Нидерланды ---
+vless://c38d0c9b-8b8b-5e69-a440-9eb93517716e@64.188.77.219:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+# --- 🇫🇮 Финляндия ---
+vless://c38d0c9b-8b8b-5e69-a440-9eb93517716e@64.188.76.112:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.apple.com&spx=%2F&flow=xtls-rprx-vision&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&sid=74db5d#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
