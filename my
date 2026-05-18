@@ -8,9 +8,7 @@
 #profile-title: Ring VPN • ✅ Licenced
 #announce: base64:0J3Rg9C20L3QviDQsdC+0LvRjNGI0LUg0YHQtdGA0LLQtdGA0L7QsiDwn5al77iPINC4INCx0YvRgdGC0YDQtdC1INGB0LrQvtGA0L7RgdGC0Ywg4o+rPyAK0J7QsdGF0L7QtCDQsdGBID8gCtCa0YPQv9C4INC/0YDQtdC80LjRg9C8KSDwn5K4
 #profile-web-page-url: http://vpn.ring-project.ru/
-vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@72.56.38.249:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Автоматический 🇫🇮
-vless://16c501f7-2eb8-4c1f-97e9-8e159cc41bf5@193.160.209.193:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Youtube 
-
+vless://da688e64-bc7c-48ff-b117-386a129f7bca@usa.ring-team.ru:443?path=%2F&security=tls&encryption=none&host=usa.ring-team.ru&fp=chrome&allowinsecure=0&type=ws&sni=usa.ring-team.ru#Автоматический 🇳🇱
 
 
 
