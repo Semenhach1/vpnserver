@@ -8,11 +8,16 @@
 #profile-title: Ring VPN • ✅ Licenced
 #announce: base64:0J3Rg9C20L3QviDQsdC+0LvRjNGI0LUg0YHQtdGA0LLQtdGA0L7QsiDwn5al77iPINC4INCx0YvRgdGC0YDQtdC1INGB0LrQvtGA0L7RgdGC0Ywg4o+rPyAK0J7QsdGF0L7QtCDQsdGBID8gCtCa0YPQv9C4INC/0YDQtdC80LjRg9C8KSDwn5K4
 #profile-web-page-url: http://vpn.ring-project.ru/
-vless://da688e64-bc7c-48ff-b117-386a129f7bca@usa.ring-team.ru:443?path=%2F&security=tls&encryption=none&host=usa.ring-team.ru&fp=chrome&allowinsecure=0&type=ws&sni=usa.ring-team.ru#Автоматический 🇳🇱
 
 
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@germani.izzzyvpn.2bd.net:9443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&sid=6ba85179e30d4fc2#🇩🇪 Германия
 
-vless://c38d0c9b-8b8b-5e69-a440-9eb93517716e@64.188.77.219:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vless://c38d0c9b-8b8b-5e69-a440-9eb93517716e@95.85.246.102:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.microsoft.com&spx=%2F&flow=xtls-rprx-vision&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-vless://c38d0c9b-8b8b-5e69-a440-9eb93517716e@64.188.76.112:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=www.apple.com&spx=%2F&flow=xtls-rprx-vision&pbk=SvQNeUViPFTH2-zG7HPZki4iY6a-d6yWdBXkMStqwjU&sid=74db5d#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:13443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&sid=f690c1046814dc9d#🇰🇿 Казахстан
 
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:11443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&sid=f690c1046814dc9d#🇬🇧 Великобритания
+
+vless://15102f73-1b10-4b47-98a8-912aaab646aa@est.izzzyvpn.2bd.net:12443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.github.com&fp=chrome&sid=f690c1046814dc9d#🇪🇪 Эстония
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
+
+vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
