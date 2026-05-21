@@ -10,7 +10,8 @@
 #profile-web-page-url: http://vpn.ring-project.ru/
 
 
-vless://15102f73-1b10-4b47-98a8-912aaab646aa@germani.izzzyvpn.2bd.net:9443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&sid=6ba85179e30d4fc2#🇩🇪 Германия
+
+vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@de2.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#🇩🇪 Германия
 
 vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:13443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&sid=f690c1046814dc9d#🇰🇿 Казахстан
 
@@ -18,6 +19,6 @@ vless://15102f73-1b10-4b47-98a8-912aaab646aa@izzzyvpn.2bd.net:11443?security=rea
 
 vless://15102f73-1b10-4b47-98a8-912aaab646aa@est.izzzyvpn.2bd.net:12443?security=reality&encryption=none&pbk=BVIW6DYDlI3z7DIwpmsS-b92yQ5mLgheSXfGDARWzRM&type=tcp&flow=xtls-rprx-vision&sni=www.github.com&fp=chrome&sid=f690c1046814dc9d#🇪🇪 Эстония
 
-vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
+vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@nl.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#🇳🇱 Нидерланды
 
-vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
+vless://b4191559-6ec1-42e7-9afa-7cfcc521445e@pl-01.c2horizon.app:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#🇵🇱 Польша
